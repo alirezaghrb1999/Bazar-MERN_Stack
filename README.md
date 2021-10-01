@@ -1,4 +1,4 @@
-# Bazar-MERN_Stack
+# Bazar MERN Stack
 a javascript fullstack web application for trading items
 technologies : 
 front end : react - bootstrap - material-ui
